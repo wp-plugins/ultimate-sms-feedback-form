@@ -2,7 +2,7 @@
 /*
 Plugin Name: UltimateSMSapi feedback contact form
 Plugin URI: http://ultimatesmsapi.tk
-Description:  SMS Gateway for way2sms fullonsms site2sms ultoo 160by2 indyarocks smsabc smsfi free API from <a href='http://ultimatesmsapi.tk'>http://ultimatesmsapi.tk</a>
+Description:  GET FEEDBACKS OF YOUR SITE BY SMS USING FREE SMS SITES LIKE WAY2SMS FULLONSMS SITE2SMS ULTOO etc 
 Version: 1.1
 Author: Rahul Chaudhary
 Author URI: http://ultimatesmsapi.tk
