@@ -35,4 +35,4 @@ No, you dont need to register on my site.
 
 == Screenshots ==
 
-<img src='http://plugins.svn.wordpress.org/ultimate-sms-feedback-form/trunk/screenshot-1.PNG'>
+<img src='http://plugins.svn.wordpress.org/ultimate-sms-feedback-form/trunk/screenshot-1.PNG'  />
