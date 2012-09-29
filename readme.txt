@@ -35,5 +35,4 @@ No, you dont need to register on my site.
 
 == Screenshots ==
 
-1. The plugin settings page on the admin panel
-2. SMS form displayed on post
+<img src='http://plugins.svn.wordpress.org/ultimate-sms-feedback-form/trunk/screenshot-1.PNG'>
