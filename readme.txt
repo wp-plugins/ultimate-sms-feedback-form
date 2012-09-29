@@ -34,4 +34,4 @@ Yes, just make sure you configure the Gateway properly on the settings page.
 No, you dont need to register on my site.
 
 == Screenshots ==
-`/assets/screenshot-1.png`
+`../assets/screenshot-1.PNG`
