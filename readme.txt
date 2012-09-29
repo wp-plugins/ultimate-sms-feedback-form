@@ -6,8 +6,12 @@ Requires at least: 2.0
 Tested up to: 3.0
 Stable tag: 4.3
 
+GET FEEDBACK MESSAGES ON YOUR PHONE USING ANY FREE SMS PROVIDER
+
 == Description ==
-Ultimatesmsapi SMS Plugin enables Wordpress admins to get feedback messages by SMS from which are sent by site visitors.
+
+GET FEEDBACK MESSAGES ON YOUR PHONE USING ANY FREE SMS PROVIDER
+
 No need to register on <a href='http://ultimatesmsapi.tk'>ultimatesmsapi.tk</a> nut you need to register on any one of the SMS provider site which are supported by ultimatesmsapi.tk
 
 == Installation ==
