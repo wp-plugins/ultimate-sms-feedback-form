@@ -1,7 +1,7 @@
 === Ultimatesmsapi SMS PLugin ===
 Contributors: Rahul Chaudhary
 Donate link: http://ultimatesmsapi.tk/
-Tags: sms, free sms api, sms api, sms contact
+Tags: sms, free sms api, sms api, sms contact, SMS gateway
 Requires at least: 2.0
 Tested up to: 3.0
 Stable tag: 4.3
