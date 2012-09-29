@@ -34,5 +34,4 @@ Yes, just make sure you configure the Gateway properly on the settings page.
 No, you dont need to register on my site.
 
 == Screenshots ==
-
-<img src='http://plugins.svn.wordpress.org/ultimate-sms-feedback-form/trunk/screenshot-1.PNG'  />
+`/assets/screenshot-1.png`
