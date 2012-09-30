@@ -3,7 +3,7 @@ Contributors: Rahul Chaudhary
 Donate link: http://ultimatesmsapi.tk/
 Tags: sms, free sms api, sms api, sms contact, SMS gateway
 Requires at least: 2.0
-Tested up to: 3.0
+Tested up to: 3.4.2
 Stable tag: 4.3
 
 GET FEEDBACK MESSAGES ON YOUR PHONE USING ANY FREE SMS PROVIDER
@@ -34,4 +34,4 @@ Yes, just make sure you configure the Gateway properly on the settings page.
 No, you dont need to register on my site.
 
 == Screenshots ==
-`/assets/screenshot-1.png`
+1. Screenshot
