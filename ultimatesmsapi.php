@@ -3,7 +3,7 @@
 Plugin Name: UltimateSMSapi feedback contact form
 Plugin URI: http://ultimatesmsapi.tk
 Description:  GET FEEDBACKS OF YOUR SITE BY SMS USING FREE SMS SITES LIKE WAY2SMS FULLONSMS SITE2SMS ULTOO etc 
-Version: 1.1
+Version: 1.1.1
 Author: Rahul Chaudhary
 Author URI: http://ultimatesmsapi.tk
 License: GPL2
